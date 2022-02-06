@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://al-nurk.github.io/rsschool-cv/cv
