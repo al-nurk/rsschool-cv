@@ -9,14 +9,20 @@ Tg:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/alSevennn
 ---
 
 ## Summary
+* N/A
 
 ## Skills
+* HTML/CSS
 
-## Code examples
+## Code examples  
+* N/A
 
-## Experience
+## Experience  
+* N/A
 
-## Education
+## Education  
+* Javascript/Front-end Course, RSSchool
 
-## English
+## English  
+* B2 Level
 
