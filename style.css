@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: "IBM Plex Mono", monospace;
+    font-style: normal;
+    font-size: 10px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    color: gray;
+}
+
+h1 {
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+li, p {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.wrapper {
+    width: 500px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header,
+.contacts,
+.summary,
+.skills,
+.code-examples,
+.experience,
+.education,
+.english {
+    margin-top: 20px;
+}
+
+
+/* #D8F0FC */
+/* #192653 */
+/* #FED5B5 */
+/* #512E18 */
