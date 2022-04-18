@@ -42,7 +42,8 @@ h2 {
     font-weight: 700;
 }
 
-li, p {
+li,
+p {
     font-size: 2rem;
     font-weight: 400;
 }
@@ -68,6 +69,33 @@ li, p {
     margin-top: 20px;
 }
 
+.footer {
+    margin-top: 40px;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.github__logo,
+.course__logo {
+    width: 80px;
+    opacity: 0.5;
+    transition-duration: 0.3s;
+}
+
+.github__logo:hover,
+.course__logo:hover {
+    opacity: 1;
+}
+
+.date {
+    font-size: 2rem;
+    font-weight: 700;
+    color: gray;
+}
 
 /* #D8F0FC */
 /* #192653 */
