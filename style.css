@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: "IBM Plex Mono", monospace;
+    font-style: normal;
+    font-size: 10px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    color: gray;
+}
+
+h1 {
+    font-size: 3.2rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+li,
+p {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.wrapper {
+    width: 500px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header,
+.contacts,
+.summary,
+.skills,
+.code-examples,
+.experience,
+.education,
+.english {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.data-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.date {
+    font-size: 1.2rem;
+    color: gray;
+    transition-duration: 0.3s;
+}
+
+.date:hover {
+    color: black;
+}
+
+.github__logo,
+.course__logo {
+    width: 80px;
+    opacity: 0.5;
+    transition-duration: 0.3s;
+}
+
+.github__logo:hover,
+.course__logo:hover {
+    opacity: 1;
+}
